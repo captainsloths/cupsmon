@@ -25,3 +25,9 @@ go.work.sum
 # env file
 .env
 
+# Compiled binary
+cups-monitor
+cupsmon
+
+# Log files
+*.log
